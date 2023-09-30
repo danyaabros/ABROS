@@ -8,7 +8,7 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/Logo WebApp.png",
+      "src": "https://raw.githubusercontent.com/danyaabros/ABROS/main/Logo%20WebApp.png",
       "sizes": "192x192",
       "type": "image/png"
     }
