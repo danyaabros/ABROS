@@ -1,0 +1,16 @@
+{
+  "name": "ABROS",
+  "short_name": "ABROS",
+  "description": "Web Design Studio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://static.tildacdn.com/tild6165-6331-4938-a665-333632326537/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
